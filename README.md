@@ -4,11 +4,11 @@
 
 **Point-in-time scanner for PinchTab deployment and agentic browser bridge artifacts.**
 
-[![Build](https://img.shields.io/github/actions/workflow/status/helixar-ai/pinchtab-detector/release.yml?label=build&style=flat-square)](https://github.com/helixar-ai/pinchtab-detector/actions)
+[![Build](https://img.shields.io/github/actions/workflow/status/Helixar-AI/Unpinched/release.yml?label=build&style=flat-square)](https://github.com/Helixar-AI/Unpinched/actions)
 [![Go Version](https://img.shields.io/badge/go-1.22-00ADD8?style=flat-square&logo=go)](https://go.dev)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
 [![By Helixar Labs](https://img.shields.io/badge/by-Helixar%20Labs-6C63FF?style=flat-square)](https://helixar.ai/about/labs/)
-[![Release](https://img.shields.io/github/v/release/helixar-ai/pinchtab-detector?style=flat-square)](https://github.com/helixar-ai/pinchtab-detector/releases)
+[![Release](https://img.shields.io/github/v/release/Helixar-AI/Unpinched?style=flat-square)](https://github.com/Helixar-AI/Unpinched/releases)
 
 </div>
 
@@ -76,7 +76,7 @@ go install github.com/helixar-ai/pinchtab-detector@latest
 
 ### Direct binary download
 
-Grab a pre-built binary for your platform from [Releases](https://github.com/helixar-ai/pinchtab-detector/releases):
+Grab a pre-built binary for your platform from [Releases](https://github.com/Helixar-AI/Unpinched/releases):
 
 | Platform | Download |
 |---|---|
@@ -182,7 +182,7 @@ Use exit code `1` to fail CI pipelines or trigger alerts in shell scripts.
 
 Pull requests are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md) first.
 
-Issues and feature requests → [GitHub Issues](https://github.com/helixar-ai/pinchtab-detector/issues)
+Issues and feature requests → [GitHub Issues](https://github.com/Helixar-AI/Unpinched/issues)
 
 ---
 
